@@ -112,7 +112,7 @@
     "lint-staged": "7.3.0",
     "pre-commit": "1.2.2",
     "pre-push": "0.1.1",
-    "prettier": "1.15.2",
+    "prettier": "1.16.4",
     "prettier-check": "2.0.0",
     "rollup": "0.68.2",
     "rollup-plugin-node-resolve": "3.4.0",
